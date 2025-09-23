@@ -232,7 +232,7 @@
 
     /* Back to Top
     * ------------------------------------------------------ */
-    const ssBackToTop = function() {
+  /* //  const ssBackToTop = function() {
 
         const pxShow = 900;
         const goTopButton = document.querySelector(".ss-go-top");
